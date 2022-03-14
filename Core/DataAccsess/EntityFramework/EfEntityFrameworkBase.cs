@@ -1,5 +1,5 @@
-﻿using Core.DataAccess;
-using Core.Entities;
+﻿using Core.Aspects.Entities;
+using Core.DataAccess;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
