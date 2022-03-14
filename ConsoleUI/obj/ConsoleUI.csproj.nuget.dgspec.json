@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Business\\Business.csproj": {
+    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\suats\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Business\\obj\\",
+        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suats\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj"
+              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\suats\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suats\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,8 +103,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Business\\Business.csproj"
+              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Business\\Business.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj": {
+    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\suats\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\obj\\",
+        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suats\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,14 +219,14 @@
         }
       }
     },
-    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\suats\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suats\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -243,11 +243,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj"
+              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj"
               },
-              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj"
+              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -280,14 +280,14 @@
         }
       }
     },
-    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj": {
+    "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\suats\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suats\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -304,8 +304,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj"
+              "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj"
               }
             }
           }

@@ -47,8 +47,6 @@ namespace Business.Concrete
 
         public IResult Delete(CarImage carImage)
         {
-            /*try
-            {*/
             var image = _carImageDal.Get(c => c.ImageId == carImage.ImageId);
             if (image == null)
             {
@@ -56,13 +54,10 @@ namespace Business.Concrete
             }
             _carImageDal.Delete(carImage);
             return new SuccessResult();
-            /*}
-            catch (Exception)
-            {
-                return new ErrorResult(Messages.CarImageNotFound);
-            }*/
+           
         }
 
+        [ValidationAspect(typeof(CarImageValidator))]
         public IResult Update(IFormFile file, CarImage carImage)
         {
             var isImage = _carImageDal.Get(c => c.ImageId == carImage.ImageId);

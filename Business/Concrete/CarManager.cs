@@ -81,6 +81,7 @@ namespace Business.Concrete
             return new SuccessResult("");
         }
 
+        [ValidationAspect(typeof(CarValidator))]
         public IResult Update(Car car)
         {
             _carDal.Update(car);

@@ -7790,11 +7790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\WebApı\\WebApı.csproj",
+      "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\WebApı\\WebApı.csproj",
       "projectName": "WebApı",
-      "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\WebApı\\WebApı.csproj",
+      "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\WebApı\\WebApı.csproj",
       "packagesPath": "C:\\Users\\suats\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\WebApı\\obj\\",
+      "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\WebApı\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suats\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7811,17 +7811,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Business\\Business.csproj"
+            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Business\\Business.csproj"
             },
-            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Core\\Core.csproj"
+            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj"
             },
-            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\ReCapCar\\Entities\\Entities.csproj"
+            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj"
             }
           }
         }
