@@ -7636,11 +7636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\suats\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suats\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7657,11 +7657,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\Core\\Core.csproj"
+            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj"
             },
-            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\Entities\\Entities.csproj"
+            "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Entities\\Entities.csproj"
             }
           }
         }

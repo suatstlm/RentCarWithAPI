@@ -7599,11 +7599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\suats\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI1\\Core\\obj\\",
+      "outputPath": "C:\\Users\\suats\\OneDrive\\Masaüstü\\Suat\\C#\\RentCarWithAPI\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suats\\AppData\\Roaming\\NuGet\\NuGet.Config",
