@@ -91,3 +91,11 @@ C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\ReCapCar\ConsoleUI\obj\Debug\net5.0\C
 C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\ReCapCar\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
 C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\ReCapCar\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\yakup\OneDrive\Masaüstü\Suat\C#\ReCapCar\ConsoleUI\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb

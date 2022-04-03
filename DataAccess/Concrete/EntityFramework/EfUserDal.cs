@@ -2,10 +2,11 @@
 using DataAccess.Abstract;
 using System.Collections.Generic;
 using System.Linq;
+using Core.DataAccess.EntityFramework;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfUserDal : EfEntityRepositoryBase<User, CarDatabaseContext>, IUserDal
+    public class EfUserDal : EfEntityFrameworkBase<User, CarDatabaseContext>, IUserDal
     {
         public List<OperationClaim> GetClaims(User user)
         {

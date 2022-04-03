@@ -55,3 +55,11 @@ C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\Business\obj\Debug\net5.0\Bu
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\Business\obj\Debug\net5.0\refint\Business.dll
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\Business\obj\Debug\net5.0\Business.pdb
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.pdb

@@ -49,3 +49,11 @@ C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\DataAccess\obj\Debug\net5.0\
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\DataAccess\obj\Debug\net5.0\DataAccess.pdb
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\DataAccess\obj\Debug\net5.0\DataAccess.pdb

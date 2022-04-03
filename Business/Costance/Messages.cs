@@ -20,13 +20,13 @@ namespace Business.Costance
         public static string CarImageLimitExceeded = ("5'den fazla resim eklenemez");
 
         public static string CarImageDeleted = ("Araba için fotoğraf silindi");
-        public static string AuthorizationDenied = "Yetkiniz yok";
+        public static string AuthorizationDenied = ("Yetkiniz yok");
 
-        public static string UserRegistered { get; internal set; }
-        public static User UserNotFound { get; internal set; }
-        public static User PasswordError { get; internal set; }
-        public static string SuccessfulLogin { get; internal set; }
-        public static string UserAlreadyExists { get; internal set; }
-        public static string AccessTokenCreated { get; internal set; }
+        public static string UserRegistered = ("Kullanıcı kaydedildi");
+        public static string UserNotFound = ("KUllanıcı bulunamadı");
+        public static string PasswordError = ("Yanlış parola");
+        public static string SuccessfulLogin = ("Giriş Başarılı");
+        public static string UserAlreadyExists = ("Kullanıcı zaten var");
+        public static string AccessTokenCreated = ("Erişim tokeni oluşturuldu");
     }
 }

@@ -217,3 +217,13 @@ C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\WebApı\obj\Debug\net5.0\ref
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\WebApı\obj\Debug\net5.0\WebApı.pdb
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\WebApı\obj\Debug\net5.0\WebApı.genruntimeconfig.cache
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\ReCapCar\WebApı\obj\Debug\net5.0\ref\WebApı.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.csproj.AssemblyReference.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.AssemblyInfoInputs.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.AssemblyInfo.cs
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.csproj.CoreCompileInputs.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\ref\WebApı.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\WebApı\obj\Debug\net5.0\WebApı.pdb
