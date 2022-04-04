@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\yakup\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\yakup\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\suats\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\suats\\.nuget\\packages"
     ]
   }
 }

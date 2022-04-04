@@ -2,6 +2,9 @@
 using Business.BusinessAspects.Autofac;
 using Business.Costance;
 using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Caching;
+using Core.Aspects.Autofac.Performance;
+using Core.Aspects.Autofac.Transaction;
 using Core.Aspects.Autofac.Validation;
 using Core.CrousCuttingConcerns.Validation;
 using Core.Utilities.Business;
@@ -26,6 +29,7 @@ namespace Business.Concrete
         }
         [SecuredOperation("admin")]
         [ValidationAspect(typeof(CarValidator))]
+        [CacheRemoveAspect("ICarService.Get")]
         public IResult Add(Car car)
         {
             IResult result = BusinessRules.Run(CheckIfCarOfColorCorrect(car.ColorId),
@@ -40,6 +44,8 @@ namespace Business.Concrete
    
         }
 
+        [PerformanceAspect(5)]
+        [CacheAspect]
         public IDataResult<List<Car>> GetAll()
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll());
@@ -59,10 +65,27 @@ namespace Business.Concrete
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll(b => b.BrandId == id));
         }
+
         public IDataResult<List<CarDetialDto>> GetCarDetailDto()
         {
             return new SuccessDataResult<List<CarDetialDto>>(_carDal.GetCarDetialDto());
         }
+
+        [ValidationAspect(typeof(CarValidator))]
+        [CacheRemoveAspect("ICarService.Get")]
+        public IResult Update(Car car)
+        {
+            _carDal.Update(car);
+            return new SuccessResult();
+        }
+
+        [CacheRemoveAspect("ICarService.Get")]
+        public IResult Delete(Car car)
+        {
+            _carDal.Delete(car);
+            return new SuccessResult();
+        }
+
         private IResult CheckIfCarOfColorCorrect(int colorId)
         {
             var result = _carDal.GetAll(c => c.ColorId == colorId).Count;
@@ -72,6 +95,7 @@ namespace Business.Concrete
             }
             return new SuccessResult("");
         }
+
         private IResult CheckIfCarNameExists(string carName)
         {
             var result = _carDal.GetAll(c => c.CarName == carName).Any();
@@ -82,17 +106,13 @@ namespace Business.Concrete
             return new SuccessResult("");
         }
 
-        [ValidationAspect(typeof(CarValidator))]
-        public IResult Update(Car car)
+        [TransactionScopeAspect]
+        public IResult TransactionalOperation(Car car)
         {
             _carDal.Update(car);
-            return new SuccessResult();
+            _carDal.Add(car);
+            return new SuccessResult(Messages.CarUpdated);
         }
 
-        public IResult Delete(Car car)
-        {
-            _carDal.Delete(car);
-            return new SuccessResult();
-        }
     }
 }

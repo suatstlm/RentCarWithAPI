@@ -63,3 +63,14 @@ C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.dll
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\ref\Business.dll
 C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\Business.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\Core.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\bin\Debug\net5.0\Core.pdb
+C:\Users\suats\OneDrive\Masaüstü\Suat\C#\RentCarWithAPI\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
